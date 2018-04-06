@@ -1,0 +1,18 @@
+PODS:
+  - APIKit (3.1.1):
+    - Result (~> 3.0)
+  - Result (3.2.4)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - APIKit
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  APIKit: 7460983f490d3bde6aaaaa4164d18c9865a6f91d
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 98f0eb3539d4d91856af4a98c62f4535f6a410dc
+
+COCOAPODS: 1.4.0

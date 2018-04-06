@@ -1,0 +1,6 @@
+framework module Pods_LogTrip {
+  umbrella header "Pods-LogTrip-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_LogTripUITests {
+  umbrella header "Pods-LogTripUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
